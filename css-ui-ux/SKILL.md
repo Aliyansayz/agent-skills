@@ -1,4 +1,4 @@
-Use css library tailwind css and shadcn ui to rebuild the admin cms again. 
+Use css library tailwind css and shadcn ui to rebuild the app dashboard again. 
 Use these libraries and framework best ui practices to create a detailed notes for each existing view of our cms admin to make them again.
 
 
